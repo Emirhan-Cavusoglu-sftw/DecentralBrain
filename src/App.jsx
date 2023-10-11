@@ -36,7 +36,7 @@ function App() {
   const [optionsData, setOptionsData] = useState([]);
   const [dataUpdated, setDataUpdated] = useState(false);
   const toast = useToast();
-   useEffect()
+  
   
 
  
