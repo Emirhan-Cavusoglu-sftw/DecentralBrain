@@ -1,8 +1,18 @@
-# React + Vite
+# DecentralBrain
+DecentralBrain is Kahoot-like quiz game on blockchain that provides you to create your quiz contracts and share it with your friends.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Problem
 
-Currently, two official plugins are available:
+-DecentralBrain has a difference you can create your quiz contract and invite your friends with contract’s address but players should pay an entryfee.In the end the player with the highest score receives the entire prize.
+-Normally building like these applications is difficult because of the centralized payment system but on blockchain it is possible , easy and reliable 
+-So I built a react application works on Sepolia testnet(for now)  and for backend I built quizContracts and Factorys
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies,Frameworks that I used to build
+
+-ReactJS
+-Vite
+-ChakraUI
+-Hardhat
+-Solidity
+
+|Emirhan|Çavuşoğlu|
