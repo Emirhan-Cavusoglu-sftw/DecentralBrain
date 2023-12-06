@@ -22,4 +22,6 @@ DecentralBrain is Kahoot-like quiz game on blockchain that provides you to creat
 - Solidity
 
 
-| Emirhan | Çavuşoğlu |
+# Author
+
+Emirhan Çavuşoğlu 
